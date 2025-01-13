@@ -1,22 +1,12 @@
-Welcome to Lumache's documentation!
+HITCLUB | Game Bài Đổi Thưởng Cao Bồi Viễn Tây. Đăng Ký +50K
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+HITCLUB là cổng game đáng tin cậy của người chơi cá cược, đã có mặt trên thị trường cá cược và nhận được đánh giá tích cực từ người chơi. Trò chơi tại đây vô cùng đa dạng, cùng với đó là nhiều tính năng vô cùng nổi bật. Đồng thời với hiệu ứng âm thanh và hình ảnh bắt mắt cũng chính là điểm cộng khiến cho game bài đổi thưởng của HIT CLUB được anh em bet thủ yêu thích.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Địa Chỉ: 72 Đ. Nguyễn Thị Minh Khai, Phường 6, Quận 3, Thành phố Hồ Chí Minh, Vietnam.
 
-.. note::
+SĐT: 0988.688.668
 
-   This project is under active development.
+Website: https://gamehitclub.wiki/ 
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+#hitclub, #hit club, #gamehitclub, #gamehit, #gamehitclubwiki, #tải hitclub, #hitclup
